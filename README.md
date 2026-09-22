@@ -46,7 +46,9 @@ I’ll add more solutions as I practice. The structure will grow with the topics
 
 ## 📈 Progress
 
-This is an active learning repository. The aim is to improve my problem-solving and code quality over time rather than simply collect submissions.
+**Current:** Python basics — started
+
+I’m keeping this repository as a record of my practice. I’ll update it as I solve more problems.
 
 ## 👨‍💻 About Me
 
