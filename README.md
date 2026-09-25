@@ -50,6 +50,10 @@ I’ll add more solutions as I practice. The structure will grow with the topics
 
 I’m keeping this repository as a record of my practice. I’ll update it as I solve more problems.
 
+## 🧪 How I Practice
+
+For each problem, my goal is to understand the approach first, write the solution myself, and then test it with different inputs.
+
 ## 👨‍💻 About Me
 
 BCA student building a strong foundation in **Python, DSA, mathematics and AI/ML**.
